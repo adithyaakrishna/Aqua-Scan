@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "889503738249",
+    "firebase_url": "https://aqua-95005.firebaseio.com",
+    "project_id": "aqua-95005",
+    "storage_bucket": "aqua-95005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889503738249:android:049e3268eea373efaf5958",
+        "android_client_info": {
+          "package_name": "com.aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889503738249-knhlhjida0cs9nu57r8kq1817hph94l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqua",
+            "certificate_hash": "2c4e50849589bc084cc4a54c71a6c39258d619ae"
+          }
+        },
+        {
+          "client_id": "889503738249-iae3rbbgj5d8f77cdunt0aosqv5mg8gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqua",
+            "certificate_hash": "7770795bc7ce938391feb50cec54caef0e7c351c"
+          }
+        },
+        {
+          "client_id": "889503738249-8aadfki1j621s50e2aa4dnhrh162q89b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdj51IjOpnsxXUGtpkPQmCyvFD89D4dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889503738249-8aadfki1j621s50e2aa4dnhrh162q89b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889503738249:android:b1a8f871f879eeccaf5958",
+        "android_client_info": {
+          "package_name": "com.kelvin_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889503738249-bfse9ii3njfhau2vgo86tnp7govqru14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin_scan",
+            "certificate_hash": "2c4e50849589bc084cc4a54c71a6c39258d619ae"
+          }
+        },
+        {
+          "client_id": "889503738249-8aadfki1j621s50e2aa4dnhrh162q89b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdj51IjOpnsxXUGtpkPQmCyvFD89D4dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889503738249-8aadfki1j621s50e2aa4dnhrh162q89b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
